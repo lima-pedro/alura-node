@@ -1,0 +1,23 @@
+{
+  "name": "alura-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lima-pedro/alura-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lima-pedro/alura-node/issues"
+  },
+  "homepage": "https://github.com/lima-pedro/alura-node#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
